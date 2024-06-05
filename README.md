@@ -43,3 +43,4 @@ npm run dev
 
 * **Desenvolvedor Back-end** - [Gabriel Fernandes](https://github.com/Gabrielsszz)
 * **Desenvolvedor Front-end** - [Iago de Moura](https://github.com/iagoxz)
+* **Desenvolvedor Front-end** - [Brayan Oliveira] (https://github.com/Brayanolvr)
